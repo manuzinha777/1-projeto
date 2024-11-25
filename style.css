@@ -2,7 +2,11 @@ body{
 color:blueviolet;
 background: black;
 }
+header{
 
+border: solid 2px wheat;
+
+}
 
 
 
